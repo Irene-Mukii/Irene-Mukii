@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Irene-Mukii
 - 👀 I hope to become a fullstack developer.
-- 🌱 I’m currently learning Angular Js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular Js and machine learning
 - 📫 renniequin@gmail.com
 
 <!---
