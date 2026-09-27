@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Irene-Mukii
-- 👀 I am a software engineer and fullstack developer. I love everything Javascript. C++ is my native language
-- 🌱 I’m currently learning Data Science
-- 📫 renniequin@gmail.com
 
 <!---
 Irene-Mukii/Irene-Mukii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
